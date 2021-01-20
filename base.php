@@ -9,7 +9,7 @@ $Pf=new DB('pf');
 $Want=new DB('want');
 $Contact=new DB('contact');
 $Skill=new DB('skill');
-$Sc=new DB('skillChild');
+$Sc=new DB('skillchild');
 class DB{
 
     protected $table;
